@@ -1,4 +1,4 @@
-
+// API
 const pokeApi = {}
 
 function covertPokeApiDetailToPokemon(pokeDetail) {

@@ -1,4 +1,4 @@
-
+// SCRIPT PRINCIPAL
 const pokemonList = document.getElementById('pokemonList')
 const loadMoreButton = document.getElementById('loadMoreButton')
 const maxRecords = 151

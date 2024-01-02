@@ -1,2 +1,2 @@
-
+// RESOLVENDO
 console.log(nomePoke)

@@ -1,2 +1,3 @@
 # podedex-desafio-final
- Ainda estou realizando alguns ajustes
+ Realizando ajustes no javascript
+ 

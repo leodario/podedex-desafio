@@ -1,4 +1,4 @@
-
+// OS TIPOS A SEREM BUSCADO
 class Pokemon {
     number;
     name;
